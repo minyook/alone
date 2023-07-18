@@ -1,0 +1,23 @@
+.background {
+  width: 1920px;
+  height: 500px;
+  background-image: url("./background.jpg");
+  background-size: 1440px 500px;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 400%;
+  text-align: center;
+  line-height: 500px;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+.top {
+  text-align: right;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 200%;
+  font-weight: 1000;
+  
+}
